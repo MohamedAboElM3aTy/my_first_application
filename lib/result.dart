@@ -40,7 +40,7 @@ class Result extends StatelessWidget {
             'Restart Quiz !!',
             style: TextStyle(fontSize: 24),
           ),
-          style: TextButton.styleFrom(primary: Colors.yellowAccent),
+          style: TextButton.styleFrom(primary: Colors.red),
         )
       ],
     );
